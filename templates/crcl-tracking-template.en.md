@@ -32,10 +32,7 @@ Whenever you see new information related to CRCL / USDC / stablecoin regulation 
 
 Only promote it to a full card if it actually changes the model.
 
-Related reading:
-
-- `knowledge/frameworks/qualitative-first-valuation-backstop.md`
-- `knowledge/frameworks/circle-three-layer-valuation.md`
+See also: `examples/example-fill.en.md`
 
 ## The 8 core dimensions
 

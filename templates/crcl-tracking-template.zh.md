@@ -32,10 +32,7 @@
 
 只有当这条信息真的改变了模型，再升级为正式跟踪卡。
 
-可搭配阅读：
-
-- `knowledge/frameworks/qualitative-first-valuation-backstop.md`
-- `knowledge/frameworks/circle-three-layer-valuation.md`
+参考示例：`examples/example-fill.zh.md`
 
 ## 八个核心指标
 

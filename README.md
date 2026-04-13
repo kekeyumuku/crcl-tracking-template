@@ -2,6 +2,15 @@
 
 A qualitative framework for tracking whether Circle / CRCL is still mainly a spread-driven stablecoin issuer, or is evolving into a payments infrastructure platform.
 
+> **Core rule: If it doesn't change the model, don't promote it to the card.**
+
+## Quick Start
+
+1. Copy `templates/crcl-tracking-template.en.md` (or `.zh.md`) for each new update
+2. Fill the **Quick version** at the bottom first — takes 2 minutes
+3. Only expand to the full card if the information materially changes base economics, upside validation, or competitive position
+4. See `examples/` for a filled example
+
 ## What this is
 
 This repository contains a practical research template for tracking Circle / CRCL.
@@ -38,19 +47,17 @@ The framework tracks 8 core dimensions.
 
 ### Base / foundation
 1. USDC circulation
-2. Growth quality
+2. Growth quality ⚡ *leading indicator*
 3. Rate sensitivity
-4. Revenue retention / channel economics
+4. Revenue retention / channel economics ⚡ *leading indicator*
 
 ### Upside / platform validation
-5. Non-spread revenue signals
+5. Non-spread revenue signals ⚡ *leading indicator*
 6. Market share changes
 7. Regulatory positioning
-8. Enterprise / payments adoption
+8. Enterprise / payments adoption ⚡ *leading indicator*
 
 ## Core principle
-
-> **If it doesn’t change the model, don’t promote it to the card.**
 
 Only formalize information if it changes one of these:
 
