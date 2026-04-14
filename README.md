@@ -102,14 +102,10 @@ Suggested workflow:
 
 ## Boundaries
 
-This is a qualitative research framework.
+This is a qualitative research framework, not investment advice.
 It is meant to complement, not replace:
 
 - financial modeling
 - valuation work
 - scenario analysis
 - position sizing discipline
-
-## Not investment advice
-
-This is a research framework, not investment advice.
